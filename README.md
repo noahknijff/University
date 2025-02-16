@@ -12,6 +12,9 @@ These projects and assignments were done as part of my coursework at the Univers
 ### Agent Based Modeling
 - **Description:** (SEE Agent Based Modeling/README.md)
 
+### Astrophysics
+- **Description:** (N-body simulator for simulations of a hypothetical 9th planet in the solar system)
+
 ### Computational Finance
 - **Description:** In this section, I explore methods used in financial modeling, including Monte Carlo simulations and the COS method for option pricing.
 - **Notebooks:**
@@ -56,3 +59,4 @@ These projects and assignments were done as part of my coursework at the Univers
 - **Random**
 - **Datetime**
 - **Mesa**
+- **Rebound**

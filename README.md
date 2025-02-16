@@ -10,7 +10,7 @@ These projects and assignments were done as part of my coursework at the Univers
 ## Course Structure:
 
 ### Agent Based Modeling
-- **Description:** (SEE Agent Based Modelinlg/README.md)
+- **Description:** (SEE Agent Based Modeling/README.md)
 
 ### Computational Finance
 - **Description:** In this section, I explore methods used in financial modeling, including Monte Carlo simulations and the COS method for option pricing.

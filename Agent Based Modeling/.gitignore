@@ -1,0 +1,6 @@
+.idea
+.idea/
+.idea/misc.xml
+__pycache__/
+
+**/.idea/*.xml
